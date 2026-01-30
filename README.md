@@ -1,6 +1,6 @@
 # Unit Converter App
 
-Volume Calculator App es una aplicación para Android desarrollada en Java que permite a los usuarios calcular el volumen de formas geométricas básicas a través de una interfaz sencilla e intuitiva.
+Una aplicación para Android creada con Java para la conversion de unidades metricas e sistema inglés. Diseñada con una interfaz de usuario limpia y estructurada siguiendo las mejores prácticas de Android.
 
 ## 🚀 Características
 - Conversion de unidades metricas/sis. inglés.
